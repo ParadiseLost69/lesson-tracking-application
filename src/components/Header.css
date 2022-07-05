@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(228, 228, 228);
+}
+.header-title-name {
+  padding-left: 1rem;
+}
+.header-date {
+  padding-right: 1rem;
+}
+.header-section-tabs {
+  display: flex;
+  justify-content: center;
+}
+.header-section-tabs-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.header-section-tabs-list li {
+  margin: 5px;
+}
